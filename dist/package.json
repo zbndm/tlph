@@ -1,0 +1,9 @@
+{
+  "name": "telegraph-manager-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+     "su": "npx surge publish --domain https://1hm.surge.sh"
+  }
+}
